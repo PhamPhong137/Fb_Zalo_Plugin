@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(244, 204, 152);
+}
+.zalo-chat-widget {
+transition: 0.1s;
+  left: 60% !important;
+  top: 40px !important;
+  position: fixed !important;
+  transform: scale(0.7) !important;
+}
+.zalo-chat-widget:hover {
+  top: 45px !important;
+}
